@@ -1,4 +1,10 @@
-# Integrasi Numerik: Analisis Perbandingan Metode Trapezoidal dan Romberg
+#PRAKTIKUM KOMNUM 6 KELOMPOK 7 (Analisis Perbandingan Metode Trapezoidal dan Romberg)
+
+|    NRP     |           Nama             |
+| :--------: |       :------------:       |
+| 5025251046 | Muhammad Fairuz Ananta       |
+| 5025251028 | Julianda Caesar Prakoso      |
+| 5025251052 | Hilmy Fausta Pratama|
 
 Repository ini berisi implementasi mandiri untuk menghitung integral tentu menggunakan **Metode Trapezoidal** dan **Integrasi Romberg (Ekstrapolasi Richardson)**. Kode ini dirancang untuk membandingkan performa akurasi (galat/error) serta efisiensi konvergensi dari kedua metode tersebut secara objektif.
 
