@@ -147,10 +147,12 @@ plt.show()
 
 ## Screenshot Cara Kerja
 hasil ketika di run
-<img width="922" height="750" alt="image" src="https://github.com/user-attachments/assets/61f21913-7c97-480c-9057-3c9768d4fa7b" />
+<img width="900" height="724" alt="image" src="https://github.com/user-attachments/assets/ffe2130c-4fe7-474e-b0cc-227d00694c41" />
+
 
 hasil grafik perbedaan
-<img width="921" height="660" alt="image" src="https://github.com/user-attachments/assets/d8ac7641-6b26-4416-b8a8-30151d68d013" />
+<img width="920" height="622" alt="image" src="https://github.com/user-attachments/assets/4ea032cb-857c-4001-bd78-d85114c105e5" />
+
 
 
 
