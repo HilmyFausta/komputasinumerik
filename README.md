@@ -153,7 +153,8 @@ hasil ketika di run
 hasil grafik perbedaan
 <img width="920" height="622" alt="image" src="https://github.com/user-attachments/assets/4ea032cb-857c-4001-bd78-d85114c105e5" />
 
-
+## Kesimpulan
+Perbandingan kedua metode ini terletak pada cara keduanya memangkas error untuk mencapai nilai eksak. Metode Trapezoidal menggunakan pendekatan tradisional dengan meningkatkan jumlah pias (n) secara terus menerus agar semakin rapat. Namun, pada kurva yang ekstrem, metode ini membutuhkan pias yang sangat besar sehingga komputasi menjadi lambat dan kurang efisien. Sebaliknya, Integrasi Romberg menggunakan pendekatan yang lebih cerdas melalui Ekstrapolasi Richardson. Romberg memanfaatkan pola error dari hasil Trapezoidal dasar dan mengeliminasinya secara sistematis lewat operasi aljabar. menjadikannya algoritma yang jauh lebih efisien, hemat daya komputasi, dan lebih efektif dibandingkan Trapezoidal Tradisional
 
 
 ## Kode Full
